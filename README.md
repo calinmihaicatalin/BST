@@ -1,4 +1,4 @@
-# Binary Search Tree implementation in Java
+# Binary Search Tree implementation in Java 🌳🔍⚙️
 
 @2024 Calin Mihai-Catalin
 --------------------------------------------------------------------------------
