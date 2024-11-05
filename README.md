@@ -3,7 +3,7 @@
 @2024 Calin Mihai-Catalin
 --------------------------------------------------------------------------------
 
-This project consists of a Binary Search Tree implementation in Java designed for efficient management of sorted data. The B-tree offers functionalities such as insertion, deletion, and search operations. Additionally, the implementation provides features to find the predecessor and successor of a key. 
+This project consists of a Binary Search Tree (BST) implementation in Java designed for efficient management of sorted data. The B-tree offers functionalities such as insertion, deletion, and search operations. Additionally, the implementation provides features to find the predecessor and successor of a key. 
 
 Features
 
